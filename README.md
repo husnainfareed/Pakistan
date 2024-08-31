@@ -4,7 +4,7 @@
 
 ---
 
-# Welcome to GitHub Pakistan 🇮🇳
+# Welcome to GitHub Pakistan 🇵🇰
 
 In this repo, you can find resources and information for the developer community in India.
 
